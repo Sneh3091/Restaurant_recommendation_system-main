@@ -1,18 +1,5 @@
 # Foddiefy: Restaurant Recommedator System
 
-Team:
-
-Karla Plazas 
-
-Mariloy Hernandez 
-
-Jesus Antonio
-
-Jesus Molina
-
-
-
-# Presentation
 ## Reason Why?
 
 Travel is a fun activity, and we always want to enjoy that time to the fullest, including the food experience. We know that there are plenty sources of information that can give us options of restaurants or places we can visit, review the location and even read reviews but that’s hard work and also time consuming. For that reason, we will develop a solution that will give the user recommendations of the best restaurant options based on ratings and comments of other visitors taking into consideration their location in order to assure that these options are not only good but also close to them. Our solution will also consider their specific preferences to make sure every detail of the experience is based on what they like and in consequence get the most of it.
@@ -42,13 +29,6 @@ Our plattform schema:
 ![diagram](/Resources/diagram2.png)
 
 We selected first San Francisco, California which is one of the most important touristic places in the world and is also rated as one of the World’s best cities, but due we didn´t get enought data for a machine learning model, we changed to Philadelphia, Pennsilvania. 
-
-
-### Presentation and Dashboard:
-
-View our presentation here: <a href='https://docs.google.com/presentation/d/1ZlSZUL6SJBcRnLjmMwqcynuWotso9JrDRmxAZ9-IRTA/edit#slide=id.p1{/google_docs'> Recommendation System </a>
-
-View our Dashboard in Tableau Public here:  <a href='https://public.tableau.com/app/profile/karla.plazas/viz/Foofiefy_Dashboard/Foodiefy?publish=yes'> Foodiedy Dashboard </a>
 
 ## Description of data processing
 
